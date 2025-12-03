@@ -72,5 +72,23 @@ How to Run
 6. Run the App
 - run the app via the green run button
 
+
+
+
+The following resources were used to build this prototype:
+
+- Jetpack Compose State: https://developer.android.com/develop/ui/compose/state
+  
+- Kotline for andriod: https://developer.android.com/kotlin
+
+- Android Developers - Gestures: https://developer.android.com/develop/ui/compose/touch-input/pointer-input/tap-and-press
+
+- Android Developers - Graphics in Compose: https://developer.android.com/develop/ui/compose/graphics/draw/overview
+  
+- State Management - Managing state in Compose: https://developer.android.com/jetpack/compose/state
+
+- CISC682 Course Materials on Jetpack Compose and Canvas Drawing
+
+
 Developed by Sharanjit Singh
 
