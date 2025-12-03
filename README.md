@@ -7,7 +7,7 @@ Framework: Jetpack Compose
 
 Overview
 
-- This application is a simple doodle/drawing tool built for Android phones and tablets. It is implemented entirely using Jetpack Compose, without any XML layouts or traditional custom View-based onDraw() methods.
+- This application is a simple doodle/drawing tool built for Android phones and tablets. It is implemented entirely using Jetpack Compose, without any XML layouts or traditional custom View based onDraw() methods.
 
 The goal of this assignment prototype is to demonstrate an understanding of:
 
@@ -15,9 +15,9 @@ The goal of this assignment prototype is to demonstrate an understanding of:
 - State management with remember, mutableStateOf, and mutableStateListOf
 - Gesture handling using Compose’s pointerInput and detectDragGestures
 - Drawing graphics using the Compose Canvas API
-- Managing multi-stroke drawing and UI tool panels
+- Managing multi stroke drawing and UI tool panels
 
-The app provides an intuitive drawing experience with adjustable brush controls and real-time canvas rendering.
+The app provides an intuitive drawing experience with adjustable brush controls and real time canvas rendering.
 
 
 Features
@@ -53,16 +53,24 @@ Bonus Features
 
 
 How to Run
-1. Clone the Repository
-https://github.com/SharanSingh505/doodleApp
-2. Open in Android Studio
-Open Android Studio → Open Project
-Select the cloned project folder.
-3. Sync Gradle
-Android Studio will automatically download dependencies and configure Compose.
-4. Run the App
-Connect an Android device or run an AVD Emulator (Pixel 6 recommended).
-Click the Run button (Shift + F10)
+
+1. Open in Android Studio
+
+2. Open Project
+   
+3. Select the clone Repository.
+- input the Repo link to clone
+- https://github.com/SharanSingh505/doodleApp.git
+
+4. Go to File -> Sync Project with Grade Files
+- Android Studio will automatically download dependencies and configure Compose.
+- Wait till everything is synced
+
+5. Go Build -> Assemble Project
+ - wait till build finishes 
+
+6. Run the App
+- run the app via the green run button
 
 Developed by Sharanjit Singh
 
